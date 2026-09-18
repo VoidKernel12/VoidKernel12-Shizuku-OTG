@@ -57,6 +57,10 @@ install tool
 ```bash
 bash install.sh
 ```
+##run tool
+```bash
+   python shizuku_otg.py
+```
 ## How to use
 
 1. Connect the target phone to your Termux phone with an OTG cable.
