@@ -57,7 +57,7 @@ install tool
 ```bash
 bash install.sh
 ```
-##run tool
+## run tool
 ```bash
    python shizuku_otg.py
 ```
