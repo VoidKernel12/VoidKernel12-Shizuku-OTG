@@ -44,16 +44,19 @@ You can:
 
 Open Termux and run:
 
+## git clone koray
 ```bash
 git clone https://github.com/VoidKernel12/VoidKernel12-Shizuku-OTG.git
 ```
+## folder ke andar
 ```bash
 cd VoidKernel12-Shizuku-OTG
 ```
+## permission granted tool 
 ```bash
 chmod +x shizuku_otg.py
 ```
-install tool
+## install tool
 ```bash
 bash install.sh
 ```
