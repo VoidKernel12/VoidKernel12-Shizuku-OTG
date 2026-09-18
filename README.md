@@ -46,11 +46,12 @@ Open Termux and run:
 
 ```bash
 git clone https://github.com/VoidKernel12/VoidKernel12-Shizuku-OTG.git
-
+```
+```bash
 cd VoidKernel12-Shizuku-OTG
-
+```
+```bash
 chmod +x shizuku_otg.py
-
 ```
 
 No extra Python packages are needed.
@@ -63,11 +64,7 @@ No extra Python packages are needed.
 2. On the **target phone**:
    - Enable **Developer options** → turn on **USB debugging**
    - When the RSA fingerprint popup appears, tap **Allow**
-3. In Termux run:
 
-```bash
-python shizuku_otg.py
-```
 
 You will see a simple menu:
 
