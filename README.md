@@ -56,8 +56,7 @@ chmod +x shizuku_otg.py
 install tool
 ```bash
 bash install.sh
----
-
+```
 ## How to use
 
 1. Connect the target phone to your Termux phone with an OTG cable.
