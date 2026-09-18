@@ -53,9 +53,9 @@ cd VoidKernel12-Shizuku-OTG
 ```bash
 chmod +x shizuku_otg.py
 ```
-
-No extra Python packages are needed.
-
+install tool
+```bash
+bash install.sh
 ---
 
 ## How to use
