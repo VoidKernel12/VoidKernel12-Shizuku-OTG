@@ -37,7 +37,7 @@ You can:
 | android-tools     | `pkg install android-tools`            |
 | USB-OTG cable     | Data-capable OTG cable / adapter       |
 | Target phone      | USB debugging enabled                  |
-
+!termux api apk
 ---
 
 ## Installation (easy steps)
