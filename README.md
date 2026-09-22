@@ -42,8 +42,13 @@ You can:
 
 ## Installation (easy steps)
 
-Open Termux and run:
-
+Open Termux and run: note the command is termux api  Tu phone connect Banna comment Nahin kam Karega 
+```bash
+termux-usb -l
+```
+```bash
+termux-usb -r /dev/bus/usb/001/003
+```
 ## git clone koray
 ```bash
 git clone https://github.com/VoidKernel12/VoidKernel12-Shizuku-OTG.git
